@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm a full stack web developer with more than 5 years not experience. currently interested in Reactjs and  react native applications. 
+I'm a full stack web developer with more than 5 years of experience. currently interested in Reactjs, Nextjs and the web ecosystem in general,also mobile development with react native. 
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yosledev) 
