@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm a full stack web developer with more than 8 years of experience. currently interested in Reactjs, Nextjs and the web ecosystem in general,also mobile development with react native. 
+I'm a full-stack web developer with 8+ years of experience. Lately, I've been diving deeper into backend development, but I still enjoy working with frontend tools like React.js, Next.js, and React Native. I'm always curious about new trends in the web and mobile ecosystem.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yosledev) 
